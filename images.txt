@@ -5,3 +5,4 @@ haishanh/yacd
 DestinyNet/clash-premium
 moviepilot
 metacubex/clash-premium
+dreamacro/clash-dashboard
