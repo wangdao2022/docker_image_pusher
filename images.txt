@@ -4,3 +4,4 @@ dreamacro/clash-meta
 haishanh/yacd
 DestinyNet/clash-premium
 moviepilot
+metacubex/clash-premium
