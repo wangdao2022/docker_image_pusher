@@ -6,3 +6,5 @@ DestinyNet/clash-premium
 moviepilot
 metacubex/clash-premium
 dreamacro/clash-dashboard
+tindy2013/subconverter:latest
+alpine
